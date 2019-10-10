@@ -1,2 +1,2 @@
-# SRMMWML
+# Homework repository. Merged.
 SRMMWML
